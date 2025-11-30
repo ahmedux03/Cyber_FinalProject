@@ -1,0 +1,9 @@
+streamlit
+aiohttp
+python-docx
+matplotlib
+pandas
+numpy
+scapy
+pyshark
+requests

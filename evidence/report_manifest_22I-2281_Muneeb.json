@@ -1,0 +1,42 @@
+{
+  "team": "Shadow",
+  "reg": "22I-2281_Muneeb",
+  "items": [
+    {
+      "file": "capture_22I-2281_Muneeb.pcap",
+      "size": 11812
+    },
+    {
+      "file": "footprint_paths_22I-2281_Muneeb.json",
+      "size": 783
+    },
+    {
+      "file": "footprint_subs_22I-2281_Muneeb.json",
+      "size": 649
+    },
+    {
+      "file": "pcap_summary_22I-2281_Muneeb.json",
+      "size": 55
+    },
+    {
+      "file": "report_manifest_22I-2281_Muneeb.json",
+      "size": 748
+    },
+    {
+      "file": "report_Shadow.docx",
+      "size": 36801
+    },
+    {
+      "file": "stress_plot_22I-2281_Muneeb.png",
+      "size": 8601
+    },
+    {
+      "file": "toolkit_log_22I-2281_Muneeb.log",
+      "size": 4425
+    },
+    {
+      "file": "toolkit_log_22I-2281_Muneeb.sha256",
+      "size": 66
+    }
+  ]
+}

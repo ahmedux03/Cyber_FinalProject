@@ -1,0 +1,32 @@
+[
+  {
+    "sub": "dev",
+    "host": "dev.https://local-demo.paybuddy.test",
+    "resolved": false
+  },
+  {
+    "sub": "test",
+    "host": "test.https://local-demo.paybuddy.test",
+    "resolved": false
+  },
+  {
+    "sub": "staging",
+    "host": "staging.https://local-demo.paybuddy.test",
+    "resolved": false
+  },
+  {
+    "sub": "api",
+    "host": "api.https://local-demo.paybuddy.test",
+    "resolved": false
+  },
+  {
+    "sub": "www",
+    "host": "www.https://local-demo.paybuddy.test",
+    "resolved": false
+  },
+  {
+    "sub": "app",
+    "host": "app.https://local-demo.paybuddy.test",
+    "resolved": false
+  }
+]

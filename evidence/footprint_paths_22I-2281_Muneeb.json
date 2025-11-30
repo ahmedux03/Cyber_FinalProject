@@ -1,0 +1,37 @@
+[
+  {
+    "path": "api",
+    "url": "https://local-demo.paybuddy.test/api",
+    "status": "err"
+  },
+  {
+    "path": "dashboard",
+    "url": "https://local-demo.paybuddy.test/dashboard",
+    "status": "err"
+  },
+  {
+    "path": ".git",
+    "url": "https://local-demo.paybuddy.test/.git",
+    "status": "err"
+  },
+  {
+    "path": "login",
+    "url": "https://local-demo.paybuddy.test/login",
+    "status": "err"
+  },
+  {
+    "path": "admin",
+    "url": "https://local-demo.paybuddy.test/admin",
+    "status": "err"
+  },
+  {
+    "path": "sitemap.xml",
+    "url": "https://local-demo.paybuddy.test/sitemap.xml",
+    "status": "err"
+  },
+  {
+    "path": "robots.txt",
+    "url": "https://local-demo.paybuddy.test/robots.txt",
+    "status": "err"
+  }
+]
